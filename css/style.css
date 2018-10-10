@@ -251,6 +251,20 @@ canvas{
 	color: white;
 }
 
+.sketchfab{
+	width: 100%;
+	height: 100%;
+	background-color: #b71c2c;
+	border-top: 5px solid black;
+	background-image: url("../resources/media/background.png");
+	background-size: cover;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
 /* ---- particles.js container ---- */
 
 #particles-js{
