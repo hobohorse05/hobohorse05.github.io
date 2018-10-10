@@ -37,14 +37,17 @@ canvas{
   vertical-align:bottom;
 }
 
-.test{
+.top-heading{
 	color: white;
 	font-family: helvetica;
 	font-size:100px;
 	margin-top:-35%;
 }
 
-
+.heading-buffer{
+	width: 100%;
+	height:57.9%;
+}
 /* ---- particles.js container ---- */
 
 #particles-js{
