@@ -82,7 +82,7 @@ canvas{
 .CAS-header{
 	width: 100%;
 	height: 10%;
-	color: black;
+	color: white;
 	font-size: 400%;
 	font-family: helvetica;
 	font-weight: 900;
@@ -118,6 +118,12 @@ canvas{
 	height: 50%;
 }
 
+.CAS-img-container img{
+	width: 70%;
+	height: 45%;
+	
+}
+
 .SS-img-container video{
 	width: 75%;
 	height: 50%;
@@ -131,6 +137,12 @@ canvas{
 .CAS-info-container{
 	flex: 1;
 	height: 100%;
+}
+
+.CAS-info-container span{
+	font-family: helvetica;
+	font-size: 170%;
+	color: white;
 }
 
 .SS-info-container span{
