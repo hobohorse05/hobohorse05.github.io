@@ -88,6 +88,15 @@ canvas{
     background-repeat: no-repeat;
 }
 
+.max-energies{
+	width: 100%;
+	height: 110%;
+	background-image: url("../resources/media/background2.png");
+	background-size: cover;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+}
+
 .SS-header{
 	width: 100%;
 	height: 10%;
@@ -233,7 +242,7 @@ canvas{
 
 .LC-info-container span{
 	font-family: helvetica;
-	font-size: 140%;
+	font-size: 160%;
 }
 
 .PAP-info-container span{
