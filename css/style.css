@@ -98,10 +98,13 @@ canvas{
 }
 
 .SS-info-container{
-	background-color: green;
 	flex: 1;
 	height: 100%;
-	opacity: 0.4;
+}
+
+.SS-info-container span{
+	font-family: helvetica;
+	font-size: 140%;
 }
 
 /* ---- particles.js container ---- */
