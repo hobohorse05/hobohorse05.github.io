@@ -43,7 +43,7 @@ canvas{
 .top-heading{
 	color: white;
 	font-family: helvetica;
-	font-size:70px;
+	font-size:100px;
 	margin-top:-35%;
 }
 
@@ -81,10 +81,20 @@ canvas{
 }
 
 .SS-img-container{
-	background-color: purple;
 	flex: 1;
 	height: 100%;
-	opacity: 0.4;
+	display: flex;
+	flex-direction: column;
+}
+
+.SS-img-container img{
+	width: 75%;
+	height: 50%;
+}
+
+.SS-img-container video{
+	width: 75%;
+	height: 50%;
 }
 
 .SS-info-container{
