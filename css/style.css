@@ -97,6 +97,15 @@ canvas{
     background-repeat: no-repeat;
 }
 
+.detectors{
+	width: 100%;
+	height: 110%;
+	background-image: url("../resources/media/background3.png");
+	background-size: cover;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+}
+
 .SS-header{
 	width: 100%;
 	height: 10%;
@@ -263,6 +272,7 @@ canvas{
 	align-items: center;
 	justify-content: center;
 }
+
 
 /* ---- particles.js container ---- */
 
