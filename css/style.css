@@ -106,6 +106,15 @@ canvas{
     background-repeat: no-repeat;
 }
 
+.LHC-uses{
+	width: 100%;
+	height: 110%;
+	background-image: url("../resources/media/background2.png");
+	background-size: cover;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+}
+
 .SS-header{
 	width: 100%;
 	height: 10%;
@@ -280,6 +289,10 @@ canvas{
 	font-size: 70px;
 }
 
+#img8{
+	width: 60%;
+	height: 80%;
+}
 
 /* ---- particles.js container ---- */
 
